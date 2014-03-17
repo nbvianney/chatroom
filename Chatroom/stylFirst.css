@@ -1,0 +1,119 @@
+body{
+background-color : 	#3300cc;
+color:#ffffff;
+font-family :Gabriola ,Verdana , Aria, Sans-serif;
+text-align :center;
+}
+
+#entete{
+width :1360px;
+height:210px;
+border :1px solid #ffffff;
+border-top-left-radius :0px;
+border-top-right-radius :0px;
+position :absolute;
+left :2px;
+top :100px;
+background-color :#3366cc;
+
+}
+
+header{
+position :absolute;
+left :140px;
+top :50px;
+}
+
+
+
+#visiteur {
+
+background-color :#ffffff;
+width :656px;
+height:96px;
+border :1px solid #ffffff;
+position:absolute;
+left:1px;
+top:50px;
+font-family :Gabriola ,Verdana , Aria, Sans-serif;
+color:#ffffff;
+text-align :center;
+border-bottom-left-radius :1px;
+}
+
+.prlienVisiteur{
+position:absolute;
+left:-1px;
+top:-1px;
+width:656px;
+height:86px;
+border:1px solid #ffffff;
+background-color:#6699cc;
+padding-top:10px;
+color:#ffffff;
+padding-top:30px;
+}
+
+#membre {
+
+background-color :#ffffff;
+width :697px;
+height:116px;
+border :1px solid #ffffff;
+position:absolute;
+left:660px;
+top:50px;
+font-family :Gabriola ,Verdana , Aria, Sans-serif;
+color:#ffffff;
+text-align :center;
+}
+
+.prlienMembre{
+position:absolute;
+left:-1px;
+top:-1px;
+width:697px;
+height:86px;
+border:1px solid #ffffff;
+background-color:#33cccc;
+padding-top:10px;
+color:#ffffff;
+padding-top:30px;
+}
+
+.prlienMembre:hover{
+background-color:#ff6600;
+color:#ffffff;
+
+}
+
+
+a{
+font-family :Gabriola ,Verdana , Aria, Sans-serif;
+color:#ffffff;
+text-decoration:none;
+font-size:x-large;
+}
+
+a:hover{
+background-color:#3399cc;
+color:#ffffff;
+
+}
+.motivation{
+position:absolute;
+left:10px;
+top:210px;
+}
+.motivation1{
+position:absolute;
+left:0px;
+top:25px;
+}
+
+footer{
+position:absolute;
+left:560px;
+top:450px;
+
+}

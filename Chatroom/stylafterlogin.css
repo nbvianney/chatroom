@@ -1,0 +1,29 @@
+header{
+position :absolute;
+left :10px;
+top :0px;
+}
+
+#galerie{
+
+position:relative;
+width:300px;
+height:300px;
+
+}
+
+#galerie img{
+
+position:absolute;
+
+display:none;
+
+}
+
+#galerie.image1{
+display:block;
+
+
+}
+
+
