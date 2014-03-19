@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		
-		<title>Vertical Navigation Menu: CSS3 Coded</title>
+		<title>chatroom</title>
 		
 		<link rel="stylesheet" href="styles.css">
 		
